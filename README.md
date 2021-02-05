@@ -34,7 +34,9 @@ Aside  from  the  default  basic  architecture  of  Android  studio,  we  have  
      * Enterprise	
 * [] User can have information about of OAVCT   
 * [] User can **Login or Log out** 
-* #After logging in, the customer can access the following services:
+'''
+After logging in, the customer can access the following services:
+'''
 * [] User can see all services
 * [] Launch an expertise reques
 * [] User can  post feed-back
