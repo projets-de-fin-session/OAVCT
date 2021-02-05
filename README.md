@@ -47,7 +47,7 @@ From Android Studio:
 
 ## Maintainers
 This project is mantained by:
-* [Yves Ronaldo CAZEAU] (https://github.com/ycazeau)
+* [Yves Ronaldo CAZEAU](https://github.com/ycazeau)
 * [Franceau VAL](https://github.com/valfranceau)
 * [Luckson SURPRICE](https://github.com/Sluckson)
 
