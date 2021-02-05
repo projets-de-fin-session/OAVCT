@@ -20,6 +20,11 @@ Among the leaders in this field, we chose Firebase because of the following adva
 ##  **conclusion about the choise of the backend**
 Firebase is one of the effective platforms that have made the task of the app developers simpler to much extent.
 
+##  **Internal application architecture**
+Aside  from  the  default  basic  architecture  of  Android  studio,  we  have  structured  our  source  codes  into three packages:
+➢A package for activities
+➢A package for Models
+➢A package for adaptors
 
 ## User Stories
 * [] User can **Download App on Play Store**
@@ -27,12 +32,15 @@ Firebase is one of the effective platforms that have made the task of the app de
       Physical person
       Concessionaire
       Enterprise	
+ * [] User can have information about of OAVCT   
 * [] User can **Login or Log out** 
+# After logging in, the customer can access the following services:
 * [] User can see all services
-* [] User can have information about of OAVCT
+* [] Launch an expertise reques
 * [] User can  post feed-back
 * [] User can renew their auto insurance online
-* [] User can launch an expertise request for a new insurance issue or a transfer and schedule an appointment for the assessment
+* [] Request for vehicle blocking
+* [] Initiate changes of vehicle users
 
 ## Installation
 Clone this repository and import into **Android Studio**
