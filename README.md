@@ -34,7 +34,7 @@ Aside  from  the  default  basic  architecture  of  Android  studio,  we  have  
      * Enterprise	
 * [] User can have information about of OAVCT   
 * [] User can **Login or Log out** 
-After logging in, the customer can access the following services:
+* #After logging in, the customer can access the following services:
 * [] User can see all services
 * [] Launch an expertise reques
 * [] User can  post feed-back
@@ -73,8 +73,8 @@ This project is mantained by:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.figma.com/proto/FfPHBFKDqu690zTIr3UkpK/OAVCT-App?node-id=108%3A0&scaling=min-zoom' title='Video Walkthrough' width='' alt='Walkthrough' />
+<img src='https://www.figma.com/proto/FfPHBFKDqu690zTIr3UkpK/OAVCT-App?node-id=108%3A0&scaling=min-zoom' title='Video Walkthrough' width='' alt='Simulation Wireframe' />
 
-<img src='https://www.figma.com/file/FfPHBFKDqu690zTIr3UkpK/OAVCT-App?node-id=0%3A1' title='Figma' width='' alt='Photo' />
+<img src='https://www.figma.com/file/FfPHBFKDqu690zTIr3UkpK/OAVCT-App?node-id=0%3A1' title='Figma' width='' alt='Picture wireframe ' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
