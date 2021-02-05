@@ -69,11 +69,12 @@ This project is mantained by:
 5. Push your branch (git push origin my-new-feature)
 6. Create a new Pull Request
 
-Video Walkthrough
+## Video Walkthrough OR Wireframe
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.figma.com/proto/FfPHBFKDqu690zTIr3UkpK/OAVCT-App?node-id=108%3A0&scaling=min-zoom' title='Video Walkthrough' width='' alt='Walkthrough' />
 
+<img src='https://www.figma.com/file/FfPHBFKDqu690zTIr3UkpK/OAVCT-App?node-id=0%3A1' title='Figma' width='' alt='Photo' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
