@@ -38,7 +38,7 @@ These are people who will use the front end to perform the following services:
 * [] User can Create an account
 * [] User can Connect using his credentials, **Login or Log out** 
 ```
-Create an accountConnect using his credentials.After logging in, the customer can access the following services:
+After logging in, the customer can access the following services:
 ```
 * [] User can see all services
 * [] Launch an expertise reques
