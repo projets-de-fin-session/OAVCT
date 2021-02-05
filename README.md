@@ -22,19 +22,19 @@ Firebase is one of the effective platforms that have made the task of the app de
 
 ##  **Internal application architecture**
 Aside  from  the  default  basic  architecture  of  Android  studio,  we  have  structured  our  source  codes  into three packages:
-➢A package for activities
-➢A package for Models
-➢A package for adaptors
+* A package for activities
+* A package for Models
+* A package for adaptors
 
 ## User Stories
 * [] User can **Download App on Play Store**
 * [] User can **Sing up as**
-      Physical person
-      Concessionaire
-      Enterprise	
- * [] User can have information about of OAVCT   
+     * Physical person
+     * Concessionaire
+     * Enterprise	
+* [] User can have information about of OAVCT   
 * [] User can **Login or Log out** 
-# After logging in, the customer can access the following services:
+After logging in, the customer can access the following services:
 * [] User can see all services
 * [] Launch an expertise reques
 * [] User can  post feed-back
