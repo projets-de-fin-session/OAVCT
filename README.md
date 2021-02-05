@@ -27,16 +27,19 @@ Aside  from  the  default  basic  architecture  of  Android  studio,  we  have  
 * A package for adaptors
 
 ## User Stories
+These are people who will use the front end to perform the following services:
 * [] User can **Download App on Play Store**
 * [] User can **Sing up as**
      * Physical person
      * Concessionaire
      * Enterprise	
-* [] User can have information about of OAVCT   
-* [] User can **Login or Log out** 
-'''
-After logging in, the customer can access the following services:
-'''
+* [] User can have information about of OAVCT
+* [] User can See information and updates
+* [] User can Create an account
+* [] User can Connect using his credentials, **Login or Log out** 
+```
+Create an accountConnect using his credentials.After logging in, the customer can access the following services:
+```
 * [] User can see all services
 * [] Launch an expertise reques
 * [] User can  post feed-back
