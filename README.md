@@ -44,6 +44,9 @@ After logging in, the customer can access the following services:
 * [] Launch an expertise reques
 * [] User can  post feed-back
 * [] User can renew their auto insurance online
+* [] User can launch an expertise request for a new insurance issue or a transfer and schedule an appointment for the assessment
+* [] User can initiate changes in vehicle use.
+=======
 * [] Request for vehicle blocking
 * [] Initiate changes of vehicle users
 
