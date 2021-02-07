@@ -1,5 +1,5 @@
-package com.example.splashscreen;
 
+package com.example.splashscreen;
 import android.content.Context;
 
 import androidx.test.platform.app.InstrumentationRegistry;
