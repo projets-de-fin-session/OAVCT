@@ -85,5 +85,6 @@ Here's a walkthrough of implemented user stories:
 <img src='https://www.figma.com/proto/FfPHBFKDqu690zTIr3UkpK/OAVCT-App?node-id=108%3A0&scaling=min-zoom' title='Video Walkthrough' width='' alt='Simulation Wireframe' />
 
 <img src='https://www.figma.com/file/FfPHBFKDqu690zTIr3UkpK/OAVCT-App?node-id=0%3A1' title='Figma' width='' alt='Picture wireframe ' />
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with:
+* [LiceCap](http://www.cockos.com)
 
