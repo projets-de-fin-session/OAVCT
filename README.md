@@ -49,6 +49,7 @@ After logging in, the customer can access the following services:
 =======
 * [] Request for vehicle blocking
 * [] Initiate changes of vehicle users
+* [] User can pay online via credit cart
 
 ## Installation
 Clone this repository and import into **Android Studio**
